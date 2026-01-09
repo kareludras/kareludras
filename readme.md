@@ -1,4 +1,4 @@
-# Karel Udras's CV
+# Karel Udras
 
 - Phone: +372 5695 2250
 - Email: [udras.karel@gmail.com](mailto:udras.karel@gmail.com)
