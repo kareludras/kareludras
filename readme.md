@@ -18,7 +18,7 @@
 
 ## Codeborne, Software Engineering Intern
 
-- July 2024 – present
+- July 2024
 - Tallinn, Estonia
 - Participated in full-stack development of a commercial software product
 - Collaborated with international teams
